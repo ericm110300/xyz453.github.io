@@ -151,3 +151,9 @@ a:hover, a:focus, a:active {
   background-image: url(""); 
   background-size: cover;
 }
+
+.img-profile {
+  max-width: 10rem;
+  max-height: 10rem;
+  border: 0.5rem solid rgba(208, 67, 67, 1);
+}
